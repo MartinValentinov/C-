@@ -1,0 +1,33 @@
+You are asked to implement a program that reads two points from an input file and uses them to define a rectangle.
+
+Constraints
+
+The two points do not lie on a horizontal or vertical line, so a valid rectangle can be determined.
+
+Program Requirements
+
+Input
+
+Read two points (x1, y1) and (x2, y2) from an input file.
+
+Calculations
+
+Compute the perimeter and area of the rectangle.
+
+Write these results to output1.txt.
+
+Drawing the Rectangle
+
+Draw the rectangle in output2.txt using the following symbols
+
+. → corners
+
+- → horizontal sides
+
+ → vertical sides
+
+Notes
+
+You may assume integer coordinates for simplicity.
+
+The rectangle should be axis-aligned with sides parallel to the axes.
